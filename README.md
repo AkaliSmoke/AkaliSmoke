@@ -1,4 +1,4 @@
-## "I am my own master. Just the way I like it" 🥷
+## "I am my own master. Just the way I like it" Akali 🥷
 
 ## Opa, Olá meu nome é Kaio! 👋
 
@@ -6,7 +6,10 @@ Atualmente cursando TI no Senac por curiosidade e diversão, adoro me desafiar e
 
 ## 📊 Estatísticas
 
-![Kaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkaliSmoke&show_icons=true$theme=tokyonight)
+<section>
+   <img height="140" alt="Nan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkaliSmoke&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=20" />
+    <img height="140" alt="Nan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaliSmoke&layout=compact&theme=radical&count_private=true&hide_border=true"> 
+</section>
 
 ## Atualmente aprendendo:
 
