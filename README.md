@@ -4,9 +4,9 @@
 
 Atualmente cursando TI no Senac por curiosidade e diversão, adoro me desafiar e aprofundar meus conhecimentos sobre assuntos que me interessam!
 
-## 📊 Estatisticas
+## 📊 Estatísticas
 
-
+![Kaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkaliSmoke&show_icons=true$theme=tokyonight)
 
 ## Atualmente aprendendo:
 
