@@ -2,7 +2,7 @@
 
 ## Opa, Olá meu nome é Kaio! 👋
 
-Atualmente cursando TI no Senac por curiosidade e diversão, adoro me desafiar e aprofundar meus conhecimentos sobre assuntos que me interessam!
+Atualmente estou cursando técnico de informática na instituição do Senac (2025 - 2027), por curiosidade e diversão adoro me desafiar e aprofundar meus conhecimentos sobre tecnologia! Tenho 21 anos 😊
 
 ## 📊 Estatísticas
 
@@ -10,6 +10,12 @@ Atualmente cursando TI no Senac por curiosidade e diversão, adoro me desafiar e
     <img height="140" alt="Kaio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkaliSmoke&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=20">
     <img height="140" alt="Kaio's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaliSmoke&layout=compact&theme=radical&count_private=true&hide_border=true">
 </section>
+
+## Meus interesses
+
+**Eu gosto de jogos, animes, séries e filmes no geral**
+
+**Meus jogos favoritos são: League Of Legends, Genshin Impact, Wuthering Waves, DNA (Dust night Abyss), Stardew Valley, REPO, Roblox, Warframe e Team Fortress 2**
 
 ## Atualmente aprendendo:
 
