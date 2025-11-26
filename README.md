@@ -15,7 +15,7 @@ Atualmente estou cursando técnico de informática na instituição do Senac (20
 
 **Eu gosto de jogos, animes, séries e filmes no geral**
 
-**Meus jogos favoritos são: League Of Legends, Genshin Impact, Wuthering Waves, DNA (Dust night Abyss), Stardew Valley, REPO, Roblox, Warframe e Team Fortress 2**
+**Meus jogos favoritos são: League Of Legends, Genshin Impact, Wuthering Waves, DNA (Dust Night Abyss), Stardew Valley, REPO, Roblox, Warframe e Team Fortress 2**
 
 ## Atualmente aprendendo:
 
