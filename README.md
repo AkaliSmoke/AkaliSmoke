@@ -1,6 +1,6 @@
 ## "I am my own master. Just the way I like it" Akali 🥷
 
-<img src="https://pm1.aminoapps.com/6982/d7c20a55718f612f0637cd552811210fb4abade0r1-2048-1152v2_hq.jpg" alt="banner Ionia" width="5000" height="350">
+<img src="https://pm1.aminoapps.com/6982/d7c20a55718f612f0637cd552811210fb4abade0r1-2048-1152v2_hq.jpg" alt="banner Ionia" width="5000" height="300">
 
 ## Opa, Olá meu nome é Kaio! 👋
 
