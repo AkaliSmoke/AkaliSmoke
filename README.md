@@ -1,10 +1,12 @@
 ## "I am my own master. Just the way I like it" Akali 🥷
 
-<img src="https://pm1.aminoapps.com/6982/d7c20a55718f612f0637cd552811210fb4abade0r1-2048-1152v2_hq.jpg" alt="banner Ionia" width="1000" height="280">
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/9b/86/92/9b8692d18ff597ccbe6df1bd52682dea.jpg" width="800px" height="360px" alt="Banner Ionia">
+</p>
 
 ## Opa, Olá meu nome é Kaio! 👋
 
-Atualmente estou cursando técnico de informática na instituição do Senac (2025 - 2027), por curiosidade e diversão adoro me desafiar e aprofundar meus conhecimentos sobre tecnologia! Tenho 21 anos 😊
+Atualmente estou cursando técnico de informática na instituição do Senac (2025 - 2027), por curiosidade e diversão adoro me desafiar e aprofundar meus conhecimentos sobre tecnologia! Tenho 22 anos 😊
 
 ## 📊 Estatísticas
 
@@ -13,11 +15,11 @@ Atualmente estou cursando técnico de informática na instituição do Senac (20
     <img height="140" alt="Kaio's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaliSmoke&layout=compact&theme=radical&count_private=true&hide_border=true">
 </section>
 
-## Meus interesses
+## O que estou usando
 
-**Eu gosto de jogos, animes, séries e filmes no geral**
+**Sistema operacional: Windows 10**
 
-**Meus jogos favoritos são: League Of Legends, Genshin Impact, Wuthering Waves, DNA (Dust Night Abyss), Stardew Valley, REPO, Roblox, Warframe e Team Fortress 2**
+**Navegado: Firefox e OperaGX**
 
 ## Atualmente aprendendo:
 
