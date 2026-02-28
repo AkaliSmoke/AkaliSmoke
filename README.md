@@ -1,7 +1,7 @@
 ## "I am my own master. Just the way I like it" Akali 🥷
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/9b/86/92/9b8692d18ff597ccbe6df1bd52682dea.jpg" width="800px" height="360px" alt="Banner Ionia">
+  <img src="https://i.pinimg.com/1200x/9b/86/92/9b8692d18ff597ccbe6df1bd52682dea.jpg" width="800px" height="400px" alt="Banner Ionia">
 </p>
 
 ## Opa, Olá meu nome é Kaio! 👋
@@ -10,16 +10,13 @@ Atualmente estou cursando técnico de informática na instituição do Senac (20
 
 ## 📊 Estatísticas
 
-<section>
-    <img height="140" alt="Kaio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkaliSmoke&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=20">
-    <img height="140" alt="Kaio's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaliSmoke&layout=compact&theme=radical&count_private=true&hide_border=true">
-</section>
+[![Stats de AkaliSmoke](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
-## O que estou usando
+## O que estou usando 💻😁
 
-**Sistema operacional: Windows 10**
+***Sistema operacional: Windows 10***
 
-**Navegado: Firefox e OperaGX**
+***Navegado: Firefox e OperaGX***
 
 ## Atualmente aprendendo:
 
