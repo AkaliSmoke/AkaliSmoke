@@ -8,6 +8,9 @@
 
 Atualmente estou cursando técnico de informática na instituição do Senac (2025 - 2027), por curiosidade e diversão adoro me desafiar e aprofundar meus conhecimentos sobre tecnologia! Tenho 22 anos 😊
 
+## 🎵 músicas que curto ("Apesar que têm várias") >:3
+
+
 ## O que estou usando 💻😁
 
 ***Sistema operacional: Windows 10***
