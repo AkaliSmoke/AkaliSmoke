@@ -8,10 +8,6 @@
 
 Atualmente estou cursando técnico de informática na instituição do Senac (2025 - 2027), por curiosidade e diversão adoro me desafiar e aprofundar meus conhecimentos sobre tecnologia! Tenho 22 anos 😊
 
-## 📊 Estatísticas
-
-[![Stats de AkaliSmoke](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
 ## O que estou usando 💻😁
 
 ***Sistema operacional: Windows 10***
