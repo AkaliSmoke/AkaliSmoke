@@ -17,9 +17,9 @@ Atualmente estou cursando técnico de informática na instituição do Senac (20
 
 ## O que estou usando 💻😁
 
-***Sistema operacional: Windows 10***
+***Sistema operacional: Windows 10 (futuramente vou migrar por Arch Linux)***
 
-***Navegado: Firefox e OperaGX***
+***Navegado: Firefox e OperaGX (pensando em migrar por Brave por questões de otimização e desempenho)***
 
 ## Atualmente aprendendo:
 
