@@ -8,8 +8,12 @@
 
 Atualmente estou cursando técnico de informática na instituição do Senac (2025 - 2027), por curiosidade e diversão adoro me desafiar e aprofundar meus conhecimentos sobre tecnologia! Tenho 22 anos 😊
 
-## 🎵 músicas que curto ("Apesar que têm várias") >:3
+## 📊 Estatistica
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkaliSmoke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+## 🎵 músicas que curto ("Apesar que têm várias") >:3
 
 ## O que estou usando 💻😁
 
