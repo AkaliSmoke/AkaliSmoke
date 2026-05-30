@@ -10,8 +10,10 @@ Atualmente estou cursando técnico de informática na instituição do Senac (20
 
 ## 📊 Estatistica
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkaliSmoke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<p alignt="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AkaliSmoke&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=AkaliSmoke&theme=tokyonight&hide_border=true" />
+</p>
 
 ## O que estou usando 💻😁
 
