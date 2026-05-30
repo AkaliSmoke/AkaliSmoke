@@ -1,7 +1,7 @@
 ## "I am my own master. Just the way I like it" Akali 🥷
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/9b/86/92/9b8692d18ff597ccbe6df1bd52682dea.jpg" width="800px" height="400px" alt="Banner Ionia">
+  <img  width="100%" height="400px" src="https://i.pinimg.com/1200x/9b/86/92/9b8692d18ff597ccbe6df1bd52682dea.jpg" width="800px" height="400px" alt="Banner Ionia">
 </p>
 
 ## Opa, Olá meu nome é Kaio! 👋
