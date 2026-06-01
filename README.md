@@ -1,7 +1,7 @@
 ## "I am my own master. Just the way I like it" Akali 🥷
 
 <p align="center">
-  <img  width="100%" height="400px" src="https://i.pinimg.com/1200x/9b/86/92/9b8692d18ff597ccbe6df1bd52682dea.jpg" width="800px" height="400px" alt="Banner Ionia">
+  <img  width="100%" height="350px" src="https://i.pinimg.com/1200x/9b/86/92/9b8692d18ff597ccbe6df1bd52682dea.jpg" width="800px" height="400px" alt="Banner Ionia">
 </p>
 
 ## Opa, Olá meu nome é Kaio! 👋
@@ -19,7 +19,7 @@ Atualmente estou cursando técnico de informática na instituição do Senac (20
 
 ***Sistema operacional: Windows 10 (futuramente vou migrar por Arch Linux)***
 
-***Navegador: Firefox e OperaGX (pensando em migrar por Brave por questões de otimização e desempenho)***
+***Navegador principal: Brave***
 
 ## Atualmente aprendendo:
 
